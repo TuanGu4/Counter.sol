@@ -13,3 +13,4 @@ contract Counter {
         count -= 1;
     }
 }
+Optimize gas usage
