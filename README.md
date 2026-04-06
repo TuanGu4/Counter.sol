@@ -14,3 +14,4 @@ contract Counter {
     }
 }
 Optimize gas usage
+Adjust constructor logic
